@@ -28,14 +28,14 @@ The goal of this project is to create a professional event booking platform wher
 
 ## Screenshots
 
-<!-- ![Homepage](screenshots/homepage.png)
-*Homepage with Hero Section and Upcoming Events*
+![Homepage](screenshots/homepage.png)
+*Homepage with Header*
 
-![Event Details](screenshots/event-details.png)
-*Event detail screen with register option*
+![Demo - How it works](screenshots/howitwork.png)
+*Describe that how you book and event*
 
-![Confirmation Page](screenshots/confirmation.png)
-*Successful registration confirmation* -->
+![Events](screenshots/events.png)
+*Browse different events*
 
 ---
 
@@ -68,3 +68,9 @@ Eventify/
    ```bash
    git clone https://github.com/ZoyaKhalid/Eventify.git
    cd Eventify
+2. Install dependencies:
+   ```bash
+   npm install
+3. Run the app:
+   ```bash
+   npm run
